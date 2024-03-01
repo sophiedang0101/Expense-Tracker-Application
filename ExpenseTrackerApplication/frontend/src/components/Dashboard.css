@@ -1,0 +1,25 @@
+/* Dashboard.css */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+.Dashboard {
+  padding-top: 25px;
+  background-color: #f4f4f4;
+  font-family: "Roboto", sans-serif;
+}
+
+.Dashboard h2 {
+  color: #333;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.Dashboard .btn {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
